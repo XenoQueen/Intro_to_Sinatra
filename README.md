@@ -1,4 +1,4 @@
-# Intro_to_Sinatra
+# Intro to Sinatra
 
 Sinatra is a lightweight framework that provides models, views, and controllers. As a framework it allows us to build our very first fullstack application.
 
